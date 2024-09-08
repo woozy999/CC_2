@@ -17,3 +17,7 @@ let tip = calculateTip(bill);
 console.log('The tip for this bill is:', tip);
 
 console.log('The bill total with tip is:', bill + tip);
+
+//part 3
+
+//I already made a function for part 1, putting in this note to show I acknowledge part 3 but have already done it.
